@@ -21,4 +21,4 @@ This script automatically logins to your account and joins the meeting you are i
       - Auto_leave_min : leave after certain minutes 
       - Leave_if_last: leave if you are last in the meeting 
       - Headless: if true ( GUI won't open )
-      - python auto_joiner.py or python3 auto_joiner.py
+- Run python auto_joiner.py or python3 auto_joiner.py
